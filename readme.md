@@ -101,7 +101,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ## Options
 
 - About YouTube options, please refer to https://developers.google.com/youtube/player_parameters?hl=en
-- About Vimeo options, please refer to https://developer.vimeo.com/apis/oembed
+- About Vimeo options, please refer to https://developer.vimeo.com/api/oembed
 
 <table style="min-width:100%;">
 	<tbody><tr>
